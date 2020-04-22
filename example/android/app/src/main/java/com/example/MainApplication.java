@@ -7,7 +7,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 
-import com.wix.RNSwipeView.SwipeViewPackage;
+import com.aveq.RNSwipeView.SwipeViewPackage;
 
 import java.util.Arrays;
 import java.util.List;

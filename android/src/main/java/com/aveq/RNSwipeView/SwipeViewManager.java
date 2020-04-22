@@ -1,4 +1,4 @@
-package com.wix.RNSwipeView;
+package com.aveq.RNSwipeView;
 
 import com.facebook.react.common.MapBuilder;
 import com.facebook.react.uimanager.ThemedReactContext;
@@ -6,11 +6,11 @@ import com.facebook.react.uimanager.UIManagerModule;
 import com.facebook.react.uimanager.ViewGroupManager;
 import com.facebook.react.uimanager.annotations.ReactProp;
 import com.facebook.react.uimanager.events.EventDispatcher;
-import com.wix.RNSwipeView.events.BouncedBackEvent;
-import com.wix.RNSwipeView.events.SwipeStartEvent;
-import com.wix.RNSwipeView.events.SwipedOutEvent;
-import com.wix.RNSwipeView.events.WillBeSwipedOutEvent;
-import com.wix.RNSwipeView.events.WillBounceBackEvent;
+import com.aveq.RNSwipeView.events.BouncedBackEvent;
+import com.aveq.RNSwipeView.events.SwipeStartEvent;
+import com.aveq.RNSwipeView.events.SwipedOutEvent;
+import com.aveq.RNSwipeView.events.WillBeSwipedOutEvent;
+import com.aveq.RNSwipeView.events.WillBounceBackEvent;
 
 import java.util.Map;
 

@@ -5,20 +5,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-swipe-view.git"
+    "url": "https://github.com/slhck/react-native-swipe-view.git"
   },
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Native container view for enabling swipe actions (for example to enable swipe to delete and such)",
   "nativePackage": true,
   "bugs": {
-    "url": "https://github.com/wix/react-native-swipe-view/issues"
+    "url": "https://github.com/slhck/react-native-swipe-view/issues"
   },
-  "homepage": "https://github.com/wix/react-native-swipe-view",
+  "homepage": "https://github.com/slhck/react-native-swipe-view",
   "main": "index.js",
-  "author": "Artal Druk <artald@wix.com>",
+  "author": "Werner Robitza <werner.robitza@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": ">=0.25.1",
-    "react": ">=0.14.5"
+    "react-native": ">=0.61.5",
+    "react": ">=16.13.0"
   }
 }

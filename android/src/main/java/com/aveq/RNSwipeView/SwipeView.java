@@ -1,7 +1,7 @@
-package com.wix.RNSwipeView;
+package com.aveq.RNSwipeView;
 
 import android.content.Context;
-import android.support.v4.view.MotionEventCompat;
+import androidx.core.view.MotionEventCompat;
 import android.view.MotionEvent;
 import android.view.ViewConfiguration;
 import android.view.ViewGroup;

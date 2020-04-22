@@ -25,7 +25,7 @@ project(':RNSwipeView').projectDir = new File(rootProject.projectDir, '../node_m
 Add the package to your MainApplication.java `getPackages` list:
 
 ```
-import com.wix.RNSwipeView.SwipeViewPackage;
+import com.aveq.RNSwipeView.SwipeViewPackage;
 
 @Override
 protected List<ReactPackage> getPackages() {

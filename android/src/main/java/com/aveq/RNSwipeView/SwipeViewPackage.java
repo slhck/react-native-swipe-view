@@ -1,4 +1,4 @@
-package com.wix.RNSwipeView;
+package com.aveq.RNSwipeView;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

@@ -1,4 +1,4 @@
-package com.wix.RNSwipeView.events;
+package com.aveq.RNSwipeView.events;
 
 import com.facebook.react.uimanager.events.Event;
 import com.facebook.react.uimanager.events.RCTEventEmitter;
